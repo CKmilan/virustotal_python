@@ -14,7 +14,7 @@ retajconsultancy.com
 
 import vt
 
-api_key = "64c04e6526f38957211cc9f7377cf9404966802671bfeb603cf53962de7bed74"
+api_key = "INSERT_YOUR_API_KEY_HERE"
 
 
 
